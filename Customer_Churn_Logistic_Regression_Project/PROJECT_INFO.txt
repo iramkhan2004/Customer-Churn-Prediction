@@ -1,0 +1,3 @@
+Selected problem: PROBLEM 01 — CUSTOMER CHURN RISK
+Problem statement: Predict whether a subscription customer will churn in the next billing cycle.
+Dataset source: dataset_01_customer_churn_risk.csv from the supplied LearnDepth package.
